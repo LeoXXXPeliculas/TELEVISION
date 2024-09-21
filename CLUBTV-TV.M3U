@@ -1,0 +1,34 @@
+#EXTM3U
+
+#EXTINF:-1 TVG-LOGO="" GROUP-TITLE="PREMIUM", CLUBTV PRINCIPAL
+http://clubtvtv.link/1809SEP/lista.m3u
+
+#EXTINF:-1 TVG-LOGO="" GROUP-TITLE="PREMIUM", CLUBTV 1
+http://clubtvtv.link/1809SEP/lista1.m3u
+
+#EXTINF:-1 TVG-LOGO="" GROUP-TITLE="PREMIUM", CLUBTV 2
+http://clubtvtv.link/1809SEP/lista2.m3u
+
+#EXTINF:-1 TVG-LOGO="" GROUP-TITLE="PREMIUM", CLUBTV 3
+http://clubtvtv.link/1809SEP/lista3.m3u
+
+#EXTINF:-1 TVG-LOGO="" GROUP-TITLE="PREMIUM", CLUBTV 4
+http://clubtvtv.link/1809SEP/lista4.m3u
+
+#EXTINF:-1 TVG-LOGO="" GROUP-TITLE="PREMIUM", CLUBTV 5
+http://clubtvtv.link/1809SEP/lista5.m3u
+
+#EXTINF:-1 TVG-LOGO="" GROUP-TITLE="PREMIUM", CLUBTV 6
+http://clubtvtv.link/1809SEP/lista6.m3u
+
+#EXTINF:-1 TVG-LOGO="" GROUP-TITLE="PREMIUM", CLUBTV 7
+http://clubtvtv.link/1809SEP/lista7.m3u
+
+#EXTINF:-1 TVG-LOGO="" GROUP-TITLE="PREMIUM", CLUBTV 8
+http://clubtvtv.link/1809SEP/lista9.m3u
+
+#EXTINF:-1 TVG-LOGO="" GROUP-TITLE="PREMIUM", CLUBTV 24/7
+http://clubtvtv.link/1809SEP/24.m3u
+
+#EXTINF:-1 TVG-LOGO="" GROUP-TITLE="PREMIUM", CLUBTV ZONA HOT
+http://clubtvtv.link/1809SEP/listahot.m3u
